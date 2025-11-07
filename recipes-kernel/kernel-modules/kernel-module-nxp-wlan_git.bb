@@ -16,6 +16,7 @@ SRC_URI = " \
     file://mlinux-moal_main-lower-PRINTM_MMSG-log-level-to-KERN_INFO.patch \
     file://mxm_wifiex_fix_build_error_for_64-bit_division.patch \
     file://mxm_wifiex_fix_build_error_for_udelay.patch \
+    file://maya_w1_w4_only.patch \
 "
 SRCREV = "5ad19e194f49ed9447bee7864eb562618ccaf9b1"
 
